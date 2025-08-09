@@ -24,8 +24,11 @@ It is based on the **German Credit Dataset (numeric version)** and demonstrates 
 
 ## Project Structure
 ├── Credit_Scoring.ipynb # Main Jupyter Notebook
+
 ├── german.data-numeric.csv # Dataset
+
 ├── README.md # Project documentation
+
 └── Credit_Scoring_Report.pdf # Full research report
 
 ## Usage
