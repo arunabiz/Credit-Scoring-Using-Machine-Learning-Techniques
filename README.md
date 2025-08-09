@@ -29,7 +29,7 @@ It is based on the **German Credit Dataset (numeric version)** and demonstrates 
 
 ├── README.md # Project documentation
 
-└── Credit_Scoring_Report.pdf # Full research report
+└── Credit_Scoring_Report.pdf # Project report
 
 ## Usage
 Open Credit_Scoring.ipynb in Jupyter Notebook or JupyterLab
