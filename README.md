@@ -57,4 +57,4 @@ Risk Control: Coverage–Risk analysis shows optimal balance at ~50% automation
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## Contact
-For inquiries, reach out at aruna1rathnayake@gmail.com
+For inquiries, reach out at www.linkedin.com/in/arunabiz/
